@@ -1,2 +1,6 @@
-# ai-grant-website
-The famous AI Grant website in a simple one-click template. For anyone to use.
+# Human AI
+The first prototype of the computer mouse was invented by Douglas Engelbart. It was a vision to change how we navigate computers with a graphical interface. 61 years later, the way we interact with the personal computer has not changed. We still heavily rely on the mouse, with some minor improvements combined with large corporations and their vision toward voice-enabled AI and eventually opening up apps using AI. However, the personal computer is ready for a reinvention of the mouse, and that's what we are going to do at Human AI.
+
+Our vision is a new way to interact with a desktop interface—being able to interact with apps without having to point and click. Having cross-app collaboration between a human and AI using natural language as the main input method. We first see our customers being able to have multiple apps work and collaborate with each other based on our AI.
+
+This will change the way we interact with computers. The future of having to open multiple apps to interact with each other and losing attention due to context switching will now be behind us, powered by human and AI collaboration. Over time, we will see that our AI starts to learn how you work and starts to become semi-autonomous, working alongside you and predicting what decisions you will make before you make them. Along the way, you will approve these decisions, but in 3 years that won't be necessary. Human AI would have pioneered full desktop autonomy.
